@@ -25,7 +25,7 @@ When I'm not working with data, I enjoy [drawing, reading, writing, anything sup
 ## 🔭 Projects I've Completed
 
 - **ActiveYou: Fitness Brand Marketing Assets:** [Created a cohesive yet motivating mock fitness brand for busy young professionals and students using Adobe Creative Suite.]  
-- **Advanced Excel Capstone: Boston Housing Market:** [Demonstrated proficentcy in Excel, a written report, and a presentation by utilizing five phases in data analytics: data understanding/preparation, data visualization/eda, regression analysis, hypothesis testing/decisionmaking.]
+- **Advanced Excel Capstone: Boston Housing Market:** [Demonstrated proficiency in Excel, a written report, and a presentation by utilizing five phases in data analytics: data understanding/preparation, data visualization/eda, regression analysis, hypothesis testing/decisionmaking.]
 - **Introduction to Programming: Predicting Salaries Using Data Analytics:** [Applied data analytics principles and statistical modeling to quantify the relationship between the variables Years of Experience and Salary.]
 
 ## 🌱 Currently Learning 
