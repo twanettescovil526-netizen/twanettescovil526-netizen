@@ -13,25 +13,25 @@
 </p>
 
 ## 🚀 About Me 
-Future Data Analyst looking to step into the Crime/Intelligence Analyst industry. My lifelong love of reading, writing, and drawing makes me passionate about data visualization which can bring data to life!
+Future Data Analyst looking to become a Crime/Intelligence Analyst and step into the Public Safety Industry. My lifelong love of reading, writing, and drawing makes me passionate about data visualization which can bring data to life!
 
 My focus is on building projects and creating a solid portfolio. I'm gaining the techinical skills used in Data Analytics such as Excel, Python, and SQL through Year Up United whixh also gives people those extremely useful professional skills and personal branding everyone needs in a workplace. 
 
-When I'm not working with data, I enjoy [drawing, reading, writing, anything superheros, and photography]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy drawing, reading, writing, anything superheros, and photography. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio](https://github.com/twanettescovil526-netizen)
       
 ## 🔭 Projects I've Completed
 
-- **ActiveYou: Fitness Brand Marketing Assets:** [Created a cohesive yet motivating mock fitness brand for busy young professionals and students using Adobe Creative Suite.]  
-- **Advanced Excel Capstone: Boston Housing Market:** [Demonstrated proficiency in Excel, a written report, and a presentation by utilizing five phases in data analytics: data understanding/preparation, data visualization/eda, regression analysis, hypothesis testing/decisionmaking.]
-- **Introduction to Programming: Predicting Salaries Using Data Analytics:** [Applied data analytics principles and statistical modeling to quantify the relationship between the variables Years of Experience and Salary.]
+- **ActiveYou: Fitness Brand Marketing Assets:** Created a cohesive yet motivating mock fitness brand for busy young professionals and students using Adobe Creative Suite.
+- **Advanced Excel Capstone: Boston Housing Market:** Demonstrated proficiency in Excel, a written report, and a presentation by utilizing five phases in data analytics: data understanding/preparation, data visualization/eda, regression analysis, hypothesis testing/decisionmaking.
+- **Introduction to Programming: Predicting Salaries Using Data Analytics:** Applied data analytics principles and statistical modeling to quantify the relationship between the variables Years of Experience and Salary.
 
 ## 🌱 Currently Learning 
 
-- [PowerBI]
-- [Studying and applying Python.]
+- PowerBI
+- Relearning Python
 
 ## 🛠️ Technical Skillset
 
