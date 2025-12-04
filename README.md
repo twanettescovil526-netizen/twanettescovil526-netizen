@@ -20,7 +20,7 @@ My focus is on building projects and creating a solid portfolio. I'm gaining the
 When I'm not working with data, I enjoy drawing, reading, writing, anything superheros, and photography. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio](https://github.com/twanettescovil526-netizen)
+### [🏆 Check Out My Full Portfolio](https://twanettescovil526-netizen.github.io/index.html)
       
 ## 🔭 Projects I've Completed
 
